@@ -1,0 +1,19 @@
+################################# DESCRIPTION #################################
+
+The purpose of this repo is for merging individual exercices into the 'final'
+folder, which will hold the ones to be presented. The additional 'part' folder
+is for individual exercices. You can either directly work from your respective
+'part' subfolder and push your exercices at your own pase or push them before
+the final merge. You can initialize your subfolder in 'part' with:
+
+$ cp -r final part/{subfolder-name}
+
+#################################### USAGE ####################################
+
+To launch a given exercice use the following command:
+
+$ python3 final/ml01/exe01.py
+
+#################################### GITHUB ###################################
+
+GitHub repository: https://github.com/botiose/ftml
