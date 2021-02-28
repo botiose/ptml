@@ -11,7 +11,7 @@ PlotCount = 4
 
 for l in range(1, PlotCount+1):
     y = np.exp(-x*l)
-    plt.subplot(221 + l - 1)
+    plt.subplot(220 + l)
     plt.plot(x, y, label="$\lambda$: " + str(l))
     plt.xlabel('x')
     plt.ylabel('y')
