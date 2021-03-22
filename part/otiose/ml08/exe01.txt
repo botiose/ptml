@@ -1,0 +1,3 @@
+MSE (Mean Squared Error)
+MAE (Mean Absolute Error)
+Quantile Loss

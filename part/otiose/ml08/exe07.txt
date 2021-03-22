@@ -1,0 +1,2 @@
+Anny dataset of the form:
+Y = aX+b

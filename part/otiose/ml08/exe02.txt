@@ -1,0 +1,6 @@
+Binary Classifiers:
+Log loss (Binary Cross Entropy)
+Hinge Loss (for SVMs)
+
+Multiclass Classifiers:
+Cross Entropy
